@@ -6,7 +6,7 @@
     display: grid;
     grid-template-columns: 3fr 5fr 4fr;
     gap: 2.5rem;
-    padding: 3.75rem 0 !important;
+    padding: 3.75rem 1.25rem !important;
 }
 
 .footer h3{
