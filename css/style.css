@@ -10,7 +10,6 @@
 /* Utilidades */
 @import "./util/componente.css";
 
-
 /* Home */
 @import "./home/intro.css";
 @import "./home/tecnologia.css";
@@ -23,3 +22,6 @@
 
 /* Seguros */
 @import "./seguros/seguros.css";
+
+/* Termos */
+@import "./termos/termos.css";
