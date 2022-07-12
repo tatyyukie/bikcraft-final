@@ -32,7 +32,7 @@
 }
 
 .orcamento-produto{
-    background-color: var(--cor-12);
+    background: var(--cor-12) url('../../img/dec/bottom-left.svg') no-repeat bottom 1.25rem left 1.25rem;
     border-radius: .3125rem 0 0 .3125rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -113,7 +113,7 @@
 
 .orcamento-dados{
     border-radius: 0 .3125rem .3125rem 0;
-    background-color: var(--cor-0);
+    background: var(--cor-0) url('../../img/dec/bottom-right.svg') no-repeat bottom 1.25rem right 1.25rem;
 }
 
 .orcamento-content{
@@ -169,6 +169,7 @@
 
     .orcamento-produto{
         border-radius: .3125rem .3125rem 0 0;
+        background: var(--cor-12);
     }
 
     .orcamento-dados{
